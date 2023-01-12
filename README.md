@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 -->
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1> IT Analyst / Backend Developer Net Core </h1>
 
 
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/321/321204.png" width="18"/> <b>Lima, Perú, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<p>Welcome to my page! </br> I'm Deyby, from <b> Lima - Perú  </b> <img src="https://cdn-icons-png.flaticon.com/512/321/321204.png" width="18"/>. 
+
+<!--
+currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+-->
 <h3>Things I code with</h3>
 <p>
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-45b8d8?style=flat-square&logo=Nginx&logoColor=white" />
@@ -110,7 +114,7 @@ Here are some ideas to get you started:
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
-<table>
+<table border="0">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -122,7 +126,7 @@ Here are some ideas to get you started:
       <a href="#macropower-tech">
         <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="48" height="48" alt="Python" />
       </a>
-      <br>C #&nbsp;++
+      <br>C&nbsp;++
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
