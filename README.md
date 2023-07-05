@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1> IT Analyst 
-/ Backend Developer Net Core </h1>
+<h1> Backend Developer Net Core </h1>
 
 
 <p>Welcome to my page! </br> I'm Deyby, from <b> Lima - Perú  </b> <img src="https://cdn-icons-png.flaticon.com/512/321/321204.png" width="18"/>. 
